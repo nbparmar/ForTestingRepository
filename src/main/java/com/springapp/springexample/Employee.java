@@ -58,6 +58,7 @@ public class Employee {
 	public void draw() {
 		System.out.println("Name: " + name);
 		System.out.println("Email: " + email);
+		System.out.println("House No.: " + address.getHouseNo());
 		System.out.println("Street Name: " + address.getStreetName());
 		System.out.println("Pincode: " + address.getPincode());
 	}
