@@ -11,5 +11,6 @@ public class MyAOP {
 	ApplicationContext context = new ClassPathXmlApplicationContext("spring-config.xml");
 
 	New commit
+			// last commit
 	
 }
